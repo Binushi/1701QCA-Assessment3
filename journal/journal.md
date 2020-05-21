@@ -40,14 +40,15 @@ Trucker Jacket Levi’s
 ![Image](RP4.jpeg)
 
 This project is a Iconic Levi’s Trucker jacket merges style with innovative Jacquard technology. Answer calls, play music, and take photos right from your sleeve. This is similar to my project as it is a jacket with technology embedded in it.
-### *Insert name of related project here* ###
+### Related Project 5 ###
 
 <!--- Modify code to insert image of related project below --->
 ![Image](missingimage.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+[Eye of the Storm](https://amy0251.wixsite.com/mysite/copy-of-thunderstorm-1)
 
+Sound Reactive Dress. Made with bespoke holographic leather and sound-reactive, animated electroluminescent panels, as the volume rises, the dress illuminates to create ‘visual music’. Rainbow Winters, 2009. This project is simmilar to mine as it fashon inspired by music.
 <!--- Include information about why this project is related to yours. --->
 
 <!--- Repeat code above for a total of 6 related projects --->
@@ -96,9 +97,19 @@ The Design intent for my project is to create a jacket that has a design on the 
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+The Design intent for my project is to create a jacket that has a design on the back panel that incorporates LED's that resound to sound.
+
+### Design concept 1 ###
+My first design concept is a soundboard. It would allow to people to record sound and then play and loop them. The soundboard would have laptop connectivity allowing you to save the beat you have made. The soundboard would have a strip going down the centre and would come with a series to sticks with different coatings. Some have a thinner coating producing a different sound then one with a thick coting.
+
+
+### Design concept 2 ###
+My second design concept is a hat that moves to ward sound. There would be little spikes around the brim of the Hat that move toward where the sound in coming from. There would be a two sensors one on each side of the hat.
+
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+The final design concept is to create jacket that can be warned two parties in clubs. The final design concept is a jacket with LED lights integrated into the back panel that reacts to music, this is done through a sound sensor that’s sticks out of the top of the back panel. This project is inspired by project called “Eye of the Storm, A Thunderstorm Dress. Created by Rainbow Winters X WCPC & NthDegree, this dress has lights in it that respond to the sounds of nature and looks like lightning.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
