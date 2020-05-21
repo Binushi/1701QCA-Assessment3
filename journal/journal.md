@@ -43,7 +43,7 @@ This project is a Iconic Levi’s Trucker jacket merges style with innovative Ja
 ### Related Project 5 ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](RP5.jpeg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Eye of the Storm](https://amy0251.wixsite.com/mysite/copy-of-thunderstorm-1)
@@ -128,6 +128,15 @@ There will likely by a dozen or so images of the project under construction. The
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB)
+basic.forever(function () {
+    if (pins.digitalReadPin(DigitalPin.P1) == 1) {
+        strip.showRainbow(1, 360)
+    } else {
+        strip.showColor(neopixel.colors(NeoPixelColors.Black))
+    }
+})
+
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
