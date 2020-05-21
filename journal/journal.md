@@ -44,7 +44,7 @@ This project is a Iconic Levi’s Trucker jacket merges style with innovative Ja
 ### Related Project 5 ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](RP5.jpeg)
+![Image](RP5.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Eye of the Storm](https://amy0251.wixsite.com/mysite/copy-of-thunderstorm-1)
