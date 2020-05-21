@@ -118,13 +118,82 @@ The final design concept is to create jacket that can be warned two parties in c
 ![Image](missingimage.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+Week 5
+This week we set up groups and discussions boards. I put my area of interest as music, particularly Hip Hop and R&B. I also responded to other people’s areas of interest. 
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+Week 6
+In the Discussion board I up my area of interest as music. I got a suggestion form Cheuk Fai Mak it was “maybe you can make some sick beat that involves people interaction like everyone can modify it and come up with a really good one =D”. I really like this idea I am going to try make a soundboard that allows people to record sound and turn it into a beat. 
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+Easter Break
+I did some research into making a soundboard with the micro bit. I would need to find a speaker to use. In my previous project used earphone speakers but you can’t hear it unless you put it in your ears. I want to incorporate and eternal speaker. I also need to find a way to record the sound. I can use buttons to create the soundboard and I can but everything in a box made of plywood to make it look presentable. I had another idea; it was to make a jacket with lights in the back that react to sound or a hat that moves toward sound but in not sure how that would work. 
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+Week 7
+During tutorial
+During the tutorial I talked to Ged about my ideas. He pointed out it need to be something unique so I could have an interesting way of interreacting with the sound bored like physically moving it to get different sounds. I am now thing if doing the jacket idea. I need to do some research into sewable LED lights. I also need to look into sound sensors. 
+
+After Tutorial 
+I did some more research into sewable LED lights I found a brand called Lilly Pad LED’s that are really good. They are easy to use and are waterproof the only issue is that they are expensive, and I won’t be able to get them because of the corona virus it will take too long to get here. I did some more research and found that you can bent the normal LED’s to sew them. I need to buy some more LED’s and find connective thread. 
+
+I found it difficult to find any micro bit project with a sound sensor all I could find was Arduino. I emailed Ged to see if I could change the project from a sound sensor to a light sensor. The main issue with this was that it doesn’t fit with my area of interest. I sent some Arduino project I wanted to create on the micro bit and he sent be some links. After looking at them I had an idea of what I had to do. I sketched out a design of what I wanted it to look like and how it would work.
+![Image](OB.jpg)
+
+![Image](IB.jpg)
+I bought a sound sensor it was hard to find. I played with it a bit, I didn’t get it working but I know what I need to do to fix it.
+![Image](1.jpg)
+
+Week 8 
+This week I got the sound sensor working. I tried to follow a instructions from This website  (https://osoyoo.com/2018/09/17/micro-bit-lesson-using-the-sound-detection-sensor/). Although the sound sensor was on there was not enough voltage flowing from the micro bit was not sound sensor for it to pick up any sound. To fix this issue I used an NPN and PNP transistor to amplify the voltage. For the code I downloaded a neopixel extensions into the workspace. The code is very simple. Inside the forever block I have a else block. If P1 picks up something the light turn on rainbow. If nothing is picked up it is black (turned off).
+
+![Image](A.jpg)
+![Image](B.jpg)
+![Image](Code.png)
+
+
+
+
+Week 9
+I a Found issue with original idea for LED’s. There was not enough power from the micro bit for all of my LED’s because I would need over 20 of them and I also struggled to fond connective thread. To fix this issue I went to jay car got a nonpixel circle LED. Because of the circle LED I have to change my design. I created a design that would work with the circle shape. I went through many different ideas, but I settled on painting a side angle XXXtentaction and having the led around his headphones. Another problem I ran into was that the micro bit is very bulky and will not fit in the pocket of my jacket. I need to do some research on how to fix this.
+![Image](C.jpg)
+![Image](D.jpg)
+![Image](E.jpg)
+![Image](F.jpg)
+
+
+
+Week 10
+After some research I came across veroboards. Veroboard is a brand of stripboard, a pre-formed circuit board material of copper strips on an insulating bonded paper board. I bought a Veroboard and some wires from Jaycar. I sawdered the connections with help from my dad. Then Cut a hole for the sound sensor and sewed it in place.
+![Image](G.jpg)
+![Image](T.jpg)
+
+I cut a small hole at the top of the back pnel of the jacket and pushed the sound sensor through it and sewed it down
+![Image](H.jpg)
+![Image](I.jpg)
+
+
+
+ After that I used sawdering iron to heat up a screwdriver and made three holes for the 2 power and one data connection for the neo pixel on my jacket where the LED’s are going. Then I fed the wires through the wholes. Then I sewed the LED into place. 
+![Image](J.jpg)
+![Image](K.jpg)
+![Image](L.jpg)
+![Image](M.jpg)
+![Image](N.jpg)
+
+My dad held the jacket down then I using the sawdering iron and made a hole in the pocket and then I connected the sound sensor and the led to the micro bit using the wires I got from jaycar finishing the circuit. I fed the wires through the hole.
+. So now it sits nicely in the pocket. Then I did a test run to make sure it was working. It works the only issue is it is not that sensitive and the music need to be loud, but this jacket it make to be worn at parties and clubs where the music is loud. I’m going to try to see if increasing the amount of power will make it more sensitive. 
+![Image](O.jpg)
+![Image](P.jpg)
+![Image](Q.jpg)
+![Image](R.jpg)
+![Image](S.jpg)
+
+During the tutorial I showed a video of it working. I also talked to Ged and he said to be careful adding more power I could end up frying the micro bit and to try switching from digital pin to antilog. So, I’m going to try it.
+
+ Week 11
+Added detail to my journal and the written work. I wrote my journal in word to I copied everything over.
+
+Week 12
+I asked my cousin and my friend to model the jacket I took a bunch of shot of it and the inside to show how it works. The video needs to be at least a minute long, so I took some shots of them just wearing the jacket to show off the design. Then I got some shots of the wearing and sensor in the back and the micro bit in pocket. I started editing the video in premier pro. I started with some clips I took of my cousin I added collage text of different fonts and sizes saying denim jacket, then wrote with LED’s that resound to sound. I recorded the clip of the jacket working. Then I added music. I made it so that the clips change of beat. I then used an opacity mask to make it look like it look like the clip go through the headphones into the other one. Then I added text and the end slide with a video of xxxtentacion and text saying by Bhagya Binushi Jayatialke. I then finished my theory work. I uploaded my video to Youtube, when I loaded my video the quality of the video went down but I attached the video to my assignment so full quality one is still accessible. 
+
 
 ## Final code ##
 
