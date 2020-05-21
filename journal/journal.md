@@ -1,4 +1,5 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Denim Jacket with LED's that respond to sound*
+<video src="LED Jacket video.mp4" width="512" height="288" controls preload></video>
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
