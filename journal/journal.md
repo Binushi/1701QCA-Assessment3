@@ -85,10 +85,20 @@ This video goes into detail on different sew able LED’s and wearable technolog
  
 This article is about Making LED Lights Sewable for Wearables and Conductive Thread This article. This article will help me make the LED’s I have sewable into the jacket.
 
-
 [osoyoo] (https://osoyoo.com/2018/09/17/micro-bit-lesson-using-the-sound-detection-sensor/)
 
 This website showed me how to connect the Sound sensor to my micro bit and get it working it also showed a simple code I can use to test if it’s working.
+
+[Veroboard](http://www.bestsoldering.com/how-to-use-veroboard/)
+this website showed me how to use veroboards.
+
+premire pro tutorials i used to help make the video
+
+[ZOOM THROUGH EFFECT [PREMIERE PRO]](https://www.youtube.com/watch?v=qES0-wpGQuY)
+[Veroboard](https://www.youtube.com/watch?v=sdvCrSboUEk)
+
+
+
 
 ## Conceptual development ##
 
