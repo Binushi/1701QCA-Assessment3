@@ -153,6 +153,7 @@ This week I got the sound sensor working. I tried to follow a instructions from 
 
 Week 9
 I a Found issue with original idea for LED’s. There was not enough power from the micro bit for all of my LED’s because I would need over 20 of them and I also struggled to fond connective thread. To fix this issue I went to jay car got a nonpixel circle LED. Because of the circle LED I have to change my design. I created a design that would work with the circle shape. I went through many different ideas, but I settled on painting a side angle XXXtentaction and having the led around his headphones. Another problem I ran into was that the micro bit is very bulky and will not fit in the pocket of my jacket. I need to do some research on how to fix this.
+
 ![Image](C.jpg)
 ![Image](D.jpg)
 ![Image](E.jpg)
@@ -162,6 +163,7 @@ I a Found issue with original idea for LED’s. There was not enough power from 
 
 Week 10
 After some research I came across veroboards. Veroboard is a brand of stripboard, a pre-formed circuit board material of copper strips on an insulating bonded paper board. I bought a Veroboard and some wires from Jaycar. I sawdered the connections with help from my dad. Then Cut a hole for the sound sensor and sewed it in place.
+
 ![Image](G.jpg)
 ![Image](T.jpg)
 
@@ -172,6 +174,7 @@ I cut a small hole at the top of the back pnel of the jacket and pushed the soun
 
 
  After that I used sawdering iron to heat up a screwdriver and made three holes for the 2 power and one data connection for the neo pixel on my jacket where the LED’s are going. Then I fed the wires through the wholes. Then I sewed the LED into place. 
+ 
 ![Image](J.jpg)
 ![Image](K.jpg)
 ![Image](L.jpg)
@@ -180,6 +183,7 @@ I cut a small hole at the top of the back pnel of the jacket and pushed the soun
 
 My dad held the jacket down then I using the sawdering iron and made a hole in the pocket and then I connected the sound sensor and the led to the micro bit using the wires I got from jaycar finishing the circuit. I fed the wires through the hole.
 . So now it sits nicely in the pocket. Then I did a test run to make sure it was working. It works the only issue is it is not that sensitive and the music need to be loud, but this jacket it make to be worn at parties and clubs where the music is loud. I’m going to try to see if increasing the amount of power will make it more sensitive. 
+
 ![Image](O.jpg)
 ![Image](P.jpg)
 ![Image](Q.jpg)
@@ -198,6 +202,8 @@ I asked my cousin and my friend to model the jacket I took a bunch of shot of it
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+![Image](Code.png)
+
 let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB)
 basic.forever(function () {
     if (pins.digitalReadPin(DigitalPin.P1) == 1) {
