@@ -203,16 +203,8 @@ I asked my cousin and my friend to model the jacket I took a bunch of shot of it
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 ![Image](Code.png)
-![Image](Java.png)
 
-let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB)
-basic.forever(function () {
-    if (pins.digitalReadPin(DigitalPin.P1) == 1) {
-        strip.showRainbow(1, 360)
-    } else {
-        strip.showColor(neopixel.colors(NeoPixelColors.Black))
-    }
-})
+![Image](Java.png)
 
 
 ## Design process discussion ##
