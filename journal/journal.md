@@ -139,7 +139,7 @@ I found it difficult to find any micro bit project with a sound sensor all I cou
 
 ![Image](IB.jpg)
 I bought a sound sensor it was hard to find. I played with it a bit, I didn’t get it working but I know what I need to do to fix it.
-![Image](1.jpg)
+![Image](10.png)
 
 Week 8 
 This week I got the sound sensor working. I tried to follow a instructions from This website  (https://osoyoo.com/2018/09/17/micro-bit-lesson-using-the-sound-detection-sensor/). Although the sound sensor was on there was not enough voltage flowing from the micro bit was not sound sensor for it to pick up any sound. To fix this issue I used an NPN and PNP transistor to amplify the voltage. For the code I downloaded a neopixel extensions into the workspace. The code is very simple. Inside the forever block I have a else block. If P1 picks up something the light turn on rainbow. If nothing is picked up it is black (turned off).
