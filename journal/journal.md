@@ -1,5 +1,7 @@
 # 1701QCA Final project journal: *Denim Jacket with LED's that respond to sound*
 
+https://www.youtube.com/watch?v=tmH5K3L2Mk4&feature=youtu.be
+
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
