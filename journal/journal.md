@@ -235,7 +235,7 @@ I asked my cousin and my friend to model the jacket I took a bunch of shot of it
 ## Design process discussion ##
 <video src="LED Jacket video.mp4" width="512" height="288" controls preload></video>
 
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+The idea of wearable technology is not a new one. Wearable technology has been around for a long time but it’s not that accessible for every day people. I wanted to create a jacket that incorporates ￼ wearable technologies and music in an accessible way.￼ My original idea was to use individual LEDs and Connective thread￼ to connect the￼ LEDs to themselves, the jacket and the  Microbit . But it was difficult to find connective thread and I had too many LEDs for the amount of power I had so I adapted it to use a Neo pixel circle LED. With this change in LED my design change the original idea was to have a painting of Tupac on the back and have his chain with LEDs I change this to a picture of X wearing headphones in the circle of the headphones is the LEDs. This idea worked a lot better as it fit in with the design better and look cohesive.￼￼￼
 
 
 ## Reflection ##
