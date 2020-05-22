@@ -63,7 +63,7 @@ Sound Reactive Dress. Made with bespoke holographic leather and sound-reactive, 
 <!--- Fill out name and link to related project in the code below. --->
 [Sound Activated Equalizer LED shir](https://www.youtube.com/watch?v=no49uzOJe7A)
 
- Sound Active Equalizer El T shirt Equalizer Light up down led t shirt Flashing music activated led t-shirt. this is simmilar to my project as it it wearable LED's 
+ Sound Active Equalizer El T shirt Equalizer Light up down led t shirt Flashing music activated led t-shirt. this is simmilar to my project as it it wearable lights that react to sound. The major differences is that the it is on a shirt not a jacket. 
 
 <!--- Include information about why this project is related to yours. --->
 
