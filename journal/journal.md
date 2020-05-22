@@ -54,6 +54,17 @@ This project is a Iconic Levi’s Trucker jacket merges style with innovative Ja
 [Eye of the Storm](https://amy0251.wixsite.com/mysite/copy-of-thunderstorm-1)
 
 Sound Reactive Dress. Made with bespoke holographic leather and sound-reactive, animated electroluminescent panels, as the volume rises, the dress illuminates to create ‘visual music’. Rainbow Winters, 2009. This project is simmilar to mine as it fashon inspired by music.
+
+### Related Project 6 ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](RP5.jpg)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Sound Activated Equalizer LED shir](https://www.youtube.com/watch?v=no49uzOJe7A)
+
+ Sound Active Equalizer El T shirt Equalizer Light up down led t shirt Flashing music activated led t-shirt. this is simmilar to my project as it it wearable LED's 
+
 <!--- Include information about why this project is related to yours. --->
 
 <!--- Repeat code above for a total of 6 related projects --->
