@@ -58,7 +58,7 @@ Sound Reactive Dress. Made with bespoke holographic leather and sound-reactive, 
 ### Related Project 6 ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](RP6.jpeg)
+![Image](RP6.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Sound Activated Equalizer LED shir](https://www.youtube.com/watch?v=no49uzOJe7A)
