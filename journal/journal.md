@@ -240,8 +240,6 @@ The idea of wearable technology is not a new one. Wearable technology has been a
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
 This task help me understand how to use a Microbit better and how sound senses and LEDs work. Looking at the related projects really help me to find the best way to execute my concept. It really helped to see how professionals are doing similar things. I also did a lot of research that really helped me I found specific articles and videos on how to use specific senses and lights and different connections and transistors that really help me. There were a lot of resources online￼￼￼Looking at the related￼￼. It also gave me inspiration on different things I can do. Seeing the way other people integrated their lights inspired me to find a design that was more cohesive with the lights and incorporated them better than just a chain.￼
 
 This project was something new to me. I had never created something like this. So in essence the entire project was novel. The actual making of the project was something new to me I learnt new skills and was able to not only develop my skills in using a Microbit but also drawing and painting. The project also allowed me to practice my video editing skills. I have never had to make a video of a project. It gave me the opportunity to show off my work and also practice making at campaigns to show off my jacket and also explain how it works and what it is. It also gave me the opportunity to try a different editing techniques I had not done before.￼
